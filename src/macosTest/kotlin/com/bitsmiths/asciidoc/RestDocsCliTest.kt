@@ -1,4 +1,4 @@
-package com.bitsmits.asciidoc
+package com.bitsmiths.asciidoc
 
 import com.bitsmiths.restdocs.hello
 import kotlin.test.Test
