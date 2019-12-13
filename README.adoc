@@ -1,3 +1,8 @@
 = Water
 
 Application Documentation and Testing Service and DSL - Kotlin Native
+
+== build
+
+* use gradle to build
+** build directory will be create, navigate to executable
